@@ -1,30 +1,3 @@
-<p align="center">
-<img 
-    src="./assets/cover.png"
-    width="300"
-/>
-</p>
-
-<p align="center">
-<a href="https://dio.me/">
-    <img 
-        src="https://img.shields.io/badge/DIO-Code_The_Future-28DA77?logo=youtube" 
-        alt="DIO - Code The Future">
-</a>
-<a href="https://dio.me/">
-<img 
-    src="https://img.shields.io/badge/🔴_LIVE_CODE-FF5E72" 
-    alt="🔴 LIVE CODE">
-</a>
-</p>
-
-<p align="center">
-    preview do podcast
-</p>
-
-<div align="center">
-    <audio src="output/podcast_editado.MP3" controls title="Podcast editado"></audio>
-</div>
 
 # Projeto Podcast Gerado por I.A.s
 
@@ -50,29 +23,28 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 ## 🛠️ Prompts usados
 
 - Você é um especialista na criação de roteiros para podcast. Estou criando um podcast para que iniciantes aprendam a investir em Bitcoin. Preciso de cinco sugestões de nomes chamativos e criativos para o podcast.
-
-[REGRAS] 
-    a) Crieum nome e um subtítulo curtos. 
-    b) Faça referência a filmes futuristas.
+- [REGRAS] 
+    - a) Crieum nome e um subtítulo curtos. 
+    - b) Faça referência a filmes futuristas.
 
 - Como roteirista de podcast Crypto Runner: "Correndo para o futuro financeiro.", crie um roteiro focado em Bitcoin, para iniciantes, com linguagem clara e objetiva, de forma descontraída e divertida. 
-Siga o formato: 
-[INTRODUÇÃO], 
-[CURIOSIDADE 1], 
-CURIOSIDADE 2], 
-[FINALIZAÇÃO]. 
+- Siga o formato: 
+- [INTRODUÇÃO], 
+- [CURIOSIDADE 1], 
+- CURIOSIDADE 2], 
+- [FINALIZAÇÃO]. 
 
-[REGRAS]
-A)	Substitua [INTRODUÇÃO] por uma introdução descontraída no estilo dos vídeos do Canal do Youtube “Nostalgia”.
-B)	Substitua [CURIOSIDADE 1] por uma curiosidade sobre blockchain.
-C)	Substitua [CURIOSIDADE 2] por uma curiosidade sobre o Bitcoin.
-D)	Substitua [FINZLIZAÇÃO] por uma despedida épica, finalizando com “Eu sou Newton e esse foi nosso podcast semanal”.
-E)	Use termos de fácil entendimento.
-F)	O podcast deve ser curto.
-G)	O podcast é apresentado por Newton.
-[REGRAS NEGATIVAS]
-1)	Não use termos técnicos.
-2)	Não ultrapasse 5 minutos.
+- [REGRAS]
+- A)	Substitua [INTRODUÇÃO] por uma introdução descontraída no estilo dos vídeos do Canal do Youtube “Nostalgia”.
+- B)	Substitua [CURIOSIDADE 1] por uma curiosidade sobre blockchain.
+- C)	Substitua [CURIOSIDADE 2] por uma curiosidade sobre o Bitcoin.
+- D)	Substitua [FINZLIZAÇÃO] por uma despedida épica, finalizando com “Eu sou Newton e esse foi nosso podcast semanal”.
+- E)	Use termos de fácil entendimento.
+- F)	O podcast deve ser curto.
+- G)	O podcast é apresentado por Newton.
+- [REGRAS NEGATIVAS]
+- 1)	Não use termos técnicos.
+- 2)	Não ultrapasse 5 minutos.
 
 
 Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` para criar um podcast de maneira automatizada, para isso siga o passo a passo abaixo.
