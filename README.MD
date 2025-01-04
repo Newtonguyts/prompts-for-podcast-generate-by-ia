@@ -24,7 +24,7 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 
 - PROMPT 1 - Você é um especialista na criação de roteiros para podcast. Estou criando um podcast para que iniciantes aprendam a investir em Bitcoin. Preciso de cinco sugestões de nomes chamativos e criativos para o podcast.
 - [REGRAS] 
-    - a) Crieum nome e um subtítulo curtos. 
+    - a) Crie um nome e um subtítulo curtos. 
     - b) Faça referência a filmes futuristas.
 
 - PROMPT 2 - Como roteirista de podcast Crypto Runner: "Correndo para o futuro financeiro.", crie um roteiro focado em Bitcoin, para iniciantes, com linguagem clara e objetiva, de forma descontraída e divertida. 
@@ -47,7 +47,7 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
   - 2)	Não ultrapasse 5 minutos.
 
 
-Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` para criar um podcast de maneira automatizada, para isso siga o passo a passo abaixo.
+Utilize os prompts para criar um podcast de maneira automatizada, para isso siga o passo a passo abaixo.
 
 - 🤖 1. Use os prompts de roteiro no `chagpt`
 - 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
