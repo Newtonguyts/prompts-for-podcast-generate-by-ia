@@ -29,7 +29,7 @@
 # Projeto Podcast Gerado por I.A.s
 
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante uma live no Youtube em parceria com a [DIO](https://dio.me)
+ > ℹ️ **NOTE:** Este é o repositório desenvolvido para o Bootcamp CAIXA - IA Generativa com Microsoft Copilot em parceria com a [DIO](https://dio.me)
 
 Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
 
@@ -38,7 +38,6 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
 - [ElevenLabs](https://beta.elevenlabs.io/)
 - [Capcut](https://www.capcut.com/pt-br/)
 
@@ -46,23 +45,41 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 
 - Roteiro gerado via chatgpt
 - Audio gerado pela elevenLabs
-- Midjourney Para gerar capas
 - Capcut para tratar aúdio e adicionar sons de fundo
 
-## 📚 Materiais
+## 🛠️ Prompts usados
 
-- [Link da live no Youtube](https://www.youtube.com)
-- [Notion Template](https://helpful-jump-17b.notion.site/PAS-Podcast-AI-Studio-210489e15d7a4a73b743bb159e45d06f?pvs=4)
-- [Editor de aúdio](https://www.capcut.com/editor?from_page=landing_page&__action_from=picture_V%C3%ADdeos%20profissionais%20em%20minutos,%20n%C3%A3o%20em%20horas.)
+- Você é um especialista na criação de roteiros para podcast. Estou criando um podcast para que iniciantes aprendam a investir em Bitcoin. Preciso de cinco sugestões de nomes chamativos e criativos para o podcast.
 
+[REGRAS] 
+    a) Crieum nome e um subtítulo curtos. 
+    b) Faça referência a filmes futuristas.
 
-## 🛠️ Instruções de execução
+- Como roteirista de podcast Crypto Runner: "Correndo para o futuro financeiro.", crie um roteiro focado em Bitcoin, para iniciantes, com linguagem clara e objetiva, de forma descontraída e divertida. 
+Siga o formato: 
+[INTRODUÇÃO], 
+[CURIOSIDADE 1], 
+CURIOSIDADE 2], 
+[FINALIZAÇÃO]. 
+
+[REGRAS]
+A)	Substitua [INTRODUÇÃO] por uma introdução descontraída no estilo dos vídeos do Canal do Youtube “Nostalgia”.
+B)	Substitua [CURIOSIDADE 1] por uma curiosidade sobre blockchain.
+C)	Substitua [CURIOSIDADE 2] por uma curiosidade sobre o Bitcoin.
+D)	Substitua [FINZLIZAÇÃO] por uma despedida épica, finalizando com “Eu sou Newton e esse foi nosso podcast semanal”.
+E)	Use termos de fácil entendimento.
+F)	O podcast deve ser curto.
+G)	O podcast é apresentado por Newton.
+[REGRAS NEGATIVAS]
+1)	Não use termos técnicos.
+2)	Não ultrapasse 5 minutos.
+
 
 Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` para criar um podcast de maneira automatizada, para isso siga o passo a passo abaixo.
 
 - 🤖 1. Use os prompts de roteiro no `chagpt`
 - 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
-- 🤖 3. Use os prompts de artes no `midjourney`
+
 
 ## 👨‍💻 Expert
 
